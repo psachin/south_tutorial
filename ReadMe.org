@@ -1,0 +1,9 @@
+* Django-South tutorial
+
+** Usage:
+   - I assume you know basics of Python django and you also know how
+     to create and grant access to MySQL database.
+   - Having said that, please follow this repo from the first commit.
+
+** Docs
+   - [[http://south.readthedocs.org/en/latest/][South documentation]]
