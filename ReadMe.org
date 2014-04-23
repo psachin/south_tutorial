@@ -1,9 +1,23 @@
 * Django-South tutorial
 
 ** Usage:
-   - I assume you know basics of Python django and you also know how
-     to create and grant access to MySQL database.
-   - Having said that, please follow this repo from the first commit.
+   - I assume you know basics of Python django and MySQL
+   - Please follow this repo from the first commit.
+
+** Content(See commit messages and Git-notes for each commit)
+   - Part 1
+     - [[https://github.com/psachin/south_tutorial/tree/3313a0eee4bfc37ffcbe76adc83bac31838b9d90][Basic Django setup]]
+     - [[https://github.com/psachin/south_tutorial/tree/2f249e072c6eaad28353878e7a07d14d9c3712ad][Add 'South' to Django]]
+     - [[https://github.com/psachin/south_tutorial/tree/97c9d1f439d6f056e5ae2bd8ac2c533c4584dd22][Create model and apply migration]]
+     - [[https://github.com/psachin/south_tutorial/commit/e5a91dedcc3d67a6f6100ac52224c7c438e46de1][Change schemas and apply]]
+   - Part 2
+     - [[https://github.com/psachin/south_tutorial/tree/28688988ba2554db1904fbc61145d135b2b8d33a][Using 'Default']]
+     - [[https://github.com/psachin/south_tutorial/tree/607520569d9356364255129b6b991296bf066745][Apply 'unique']]
+   - [[https://github.com/psachin/south_tutorial/tree/d829a0bd80bdc048211e922a853ca3571bdca7e5][Part 3]]
+     - [[https://github.com/psachin/south_tutorial/tree/a6ebf53fc51ef1ecc79354f278cea0483e387272][Data migrations]]
+     - [[https://github.com/psachin/south_tutorial/tree/7a51630a8669a2b78f67dd1dc754236a038403f9][Apply migrations]]
+     - [[https://github.com/psachin/south_tutorial/tree/5784f678097600ea6244daad2f1097834a433852][Writing 'Forward' functions]]
+     - [[https://github.com/psachin/south_tutorial/tree/2433195ae50c61720f3dcfcdc25a5595a4017fa5][Apply Migrations]]
 
 ** Docs
    - [[http://south.readthedocs.org/en/latest/][South documentation]]
